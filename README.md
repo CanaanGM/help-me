@@ -18,6 +18,7 @@ help-me "powershell forlop syntax"
 
 
 TODO:
+- [ ] make this a bona fide CLI app ; make it look and behave like one !
 - [ ] get a user API key, save it in a .config file in the same directory, or as an enviornment variable then try to get that . . .
 - [ ] make a rust\python implementation.
 - [ ] maybe some tests 
